@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    width: 1024px;
+}
+
+.para__container {
+    shape-outside: polygon()
+}
